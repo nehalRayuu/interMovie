@@ -1,0 +1,38 @@
+
+
+.show {
+  
+  color: rgb(205, 206, 206);
+}
+
+.show-item {
+  
+  width: 30%; 
+  height: auto; 
+  
+  box-shadow: 5px  #0066cc;
+  margin: 10px; 
+}
+.card{
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-between; 
+ 
+
+ 
+}
+
+.show-item h3 {
+  margin-bottom: 5px;
+}
+
+/* .show-item p {
+  color: #666;
+} */
+
+.show-item a {
+  display: block;
+  margin-top: 10px;
+  color: #0066cc;
+  text-decoration: none;
+}
